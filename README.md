@@ -19,3 +19,7 @@ npm run start
 ```shell
 npm run build
 ```
+
+## Reference
+
+- [The Ultimate Guide to setting up Node.js with TypeScript and Express](https://ultimatecourses.com/blog/setup-typescript-nodejs-express)
